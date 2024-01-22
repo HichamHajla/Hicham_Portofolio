@@ -9,11 +9,12 @@ const GlobalStyles = createGlobalStyle`
     margin: 0;
     padding: 0;
   }
+
   html {
     font-size: 62.5%;
     scroll-behavior: smooth;
-
   }
+
   body {
     font-family: ${props => props.theme.fonts.main};
     font-size: 1.6rem;
