@@ -114,12 +114,19 @@ const Timeline = () => {
       </CarouselButtons>
       {/* <SectionTitle>A little summary</SectionTitle> */}
       <SectionText>
-      My name is Hicham, I am 32 years old, and I am a young graduate in web development. Before my major career change, i was a bus driver at the RATP for nearly 8 years and before that
+      {/* My name is Hicham, I am 32 years old, and I am a young graduate in web development. Before my major career change, i was a bus driver at the RATP for nearly 8 years and before that
       I was a store manager. Thanks to the experience acquired in these different fields, I would like to help companies promote their brand by building projects adapted to their image.
       I am very creative, methodical, with a great sense of leadership and I love teamwork, to solve problems and achieve goals.
       <br/>
       I'm currently seeking a position as a Junior Web Developer. <br/>
-      I can be either a front-end, a back-end developer or both, a full-stack developer.
+      I can be either a front-end, a back-end developer or both, a full-stack developer. */}
+      Welcome to my professional sphere! <br/><br/>
+      I'm currently channeling my passion for tech and design as a<br/>
+      Front-End Developer at AB Tasty, where we're at the forefront of optimizing digital experiences. My journey in tech kicked off at Ironhack's bootcamp, a challenging yet thrilling ride that equipped me with the arsenal to craft cutting-edge web applications. I'm all about the MERN Stack (MongoDB, Express, React, Node.js) and have a soft spot for the sleekness of Tailwind CSS.<br/><br/>
+      But wait, there's more to my story! <br/><br/>
+      Before diving into the tech world, I spent eight transformative years as a machinist-receiver at RATP. Think of it as a masterclass in adaptability and rapid learning. Even earlier, I honned my leadership and management skills as a store manager. This unique blend of experiences has become my superpower - enabling me to see the tech world through a multifaceted lens.<br/><br/>
+      My mission?<br/><br/> To help brands catapult their presence in the digital realm by crafting web projects that not only resonate with their identity but also speak directly to their audience's needs. At my core, I'm a creative soul and a methodical thinker, thriving in collaborative environments where problem-solving and goal-smashing are the daily norms.
+      <br/><br/>Let's connect and explore how we can create digital magic together!
       </SectionText>
       <SectionDivider />
       <br/>

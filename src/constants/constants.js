@@ -1,9 +1,9 @@
 export const projects = [
   {
     title: 'Wall A.I',
-    description: "A full-stack MERN app of a social media where users can generate images by writing a sentence in a prompt using artificial intelligence and post them on the `community wall` to share them with other users who can comment or download them.",
+    description: "A full-stack MERN app of a social media platform where users can generate images by entering a sentence into a prompt using artificial intelligence. These images can then be posted on the 'community wall,' allowing them to be shared with other users who can comment on or download them.",
     image: '/images/Wall.png',
-    tags: ['Mongo', 'Express', 'React', 'Node', 'Tailwind CSS'],
+    tags: ['React','Express','Node','Mongo','Tailwind CSS'],
     source: 'https://google.com',
     visit: 'https://wall-ai-front.vercel.app/',
     id: 0,
