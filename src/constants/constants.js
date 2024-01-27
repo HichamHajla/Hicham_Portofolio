@@ -37,3 +37,5 @@ export const TimeLineData = [
   { year: 2023, text: 'Web Development Full Time Bootcamp successfully completed', },
   { year: 2023, text: 'Starting a new job as a Front End Web Developer', }
 ];
+
+

@@ -4,9 +4,10 @@ import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponent
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
 
+
 const Hero = (props) => (
   <>
-    <Section row nopadding>
+    <Section row nopadding  style={{marginBottom:"-70px"}}>
       <LeftSection>
         <SectionTitle main center>
           Welcome To <br />
@@ -20,6 +21,6 @@ const Hero = (props) => (
       </LeftSection>
     </Section>
   </>
-);
+); 
 
 export default Hero;

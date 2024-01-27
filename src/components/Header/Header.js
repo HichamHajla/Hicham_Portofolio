@@ -18,11 +18,6 @@ const Header = () =>  (
     </Div1>
     <Div2>
       <li>
-        <Link href="#projects" legacyBehavior>
-          <NavLink>Projects</NavLink>
-        </Link>
-      </li>
-      <li>
         <Link href="#tech" legacyBehavior>
           <NavLink>Technologies</NavLink>
         </Link>
@@ -32,6 +27,11 @@ const Header = () =>  (
           <NavLink>About</NavLink>
         </Link>
       </li>        
+      <li>
+        <Link href="#projects" legacyBehavior>
+          <NavLink>Projects</NavLink>
+        </Link>
+      </li>
     </Div2>
       <Div3>
         <SocialIcons href="https://www.github.com/HichamHajla" target="_blank" rel="noopener noreferrer">
