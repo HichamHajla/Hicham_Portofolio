@@ -32,6 +32,17 @@ const GlobalStyles = createGlobalStyle`
     list-style: none;
   }
 
+  #myPic{
+    opacity: 0.9;
+    transition: transform 3s;
+  }
+
+  #myPic:hover{
+    transform: scale(1.1);
+    opacity: 1;
+    cursor: grab;
+  }
+
 `;
 
 export default GlobalStyles;

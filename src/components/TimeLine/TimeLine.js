@@ -45,6 +45,7 @@ const Timeline = () => {
   return (
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
+      <img id="myPic" src="/images/ME.png" style={{width:"450px", margin:"5% 0% 5% 40%"}}/><br/>
       <SectionText>
       I've worked for companies of different sizes, in various sectors, which allowed me to develop a great adaptability and a strong learning capacity. 
       </SectionText>
