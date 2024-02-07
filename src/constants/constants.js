@@ -9,13 +9,22 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'Squish Summary',
+    description: "An AI-powered app where users can post the URL of an articlet to generate a concise summary, providing the essence of the content in a fraction of the time. Ideal for anyone looking to save time while staying informed, our platform bridges the gap between information overload and knowledge acquisition.",
+      image: '/images/SquishSum.png',
+      tags: ['React','Vite','Redux',"Tailwind CSS"],
+    source: 'https://google.com',
+    visit: 'https://squish-summary.vercel.app',
+    id: 1,
+  },
+  {
     title: 'Pokemon Memory',
     description: "Pokemon Memory is the first project I built at Ironhack. It's a mini-game created using the Document Object Model (DOM). This traditional memory card game, themed around Pokemon cards, challenges you to memorize and find all the pairs. You win the game once you have found all the pairs of cards before time runs out.",
       image: '/images/Capture d’écran 2024-02-01 à 00.32.01.png',
       tags: ['Javascript', 'HTML','CSS'],
     source: 'https://google.com',
     visit: 'https://mini-game-project-six.vercel.app/',
-    id: 1,
+    id: 2,
   },
   // {
   //   title: 'Pokemon Battle',
